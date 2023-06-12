@@ -14,3 +14,7 @@ _notebooks/.ipynb_checkpoints
 __pycache__
 
 .DS_Store
+
+images/copied_from_nb/my_icons
+settings.ini
+Gemfile.lock
