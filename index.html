@@ -76,7 +76,7 @@ We meet the **first Monday of every month** (think "ML Mondays") at 11am UK/loca
   {% endif %}
   {% endfor %}
 
-  <img src='{{ image_path }}'/>
+  <img src='{{ image_path | relative_url }}'/>
   <p>{{item.name}}</p>
   {% if item.email %}
   <a href="{{ item.email }}"><i class="fas fa-envelope"></i></a>
