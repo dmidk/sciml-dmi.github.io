@@ -87,6 +87,9 @@ We meet the **first Monday of every month** (think "ML Mondays") at 11am UK/loca
   {% if item.social.github %}
   <a href="https://github.com/{{ item.social.github }}"><i class="fab fa-github"></i></a>
   {% endif %}
+  {% if item.social.mastodon %}
+  <a href="https://{{ item.social.mastodon }}"><i class="fab fa-mastodon"></i></a>
+  {% endif %}
   {% if item.social.twitter %}
   <a href="https://twitter.com/{{ item.social.twitter }}"><i class="fab fa-twitter"></i></a>
   {% endif %}

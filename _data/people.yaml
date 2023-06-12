@@ -4,6 +4,7 @@
     website: https://leif.denby.eu
     github: leifdenby
     twitter: leifdenby
+    mastodon: mas.to/@leifdenby
   techniques:
     - Self-supervised/unsupervised learning
     - convolutional networks
