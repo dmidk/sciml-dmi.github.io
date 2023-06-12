@@ -18,6 +18,10 @@
 - name: Kasper Hintz
   email: kah@dmi.dk
   social:
+    website: https://hintz.xyz
     github: khintz
   techniques:
+    - XGBoost
+    - Random Forest
   applications:
+    - Quality control of smartphone pressure observations
