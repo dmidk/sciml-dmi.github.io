@@ -3,6 +3,7 @@ layout: home
 search_exclude: true
 image: images/logo.png
 ---
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.2.3/mermaid.min.js" integrity="sha512-M4zmdILgXOwrBEVfpVqdO/jC3BJZQzlXHeu967v41/QoT60sESWSLbi7YwntTbYC0ZjewfTbvXO8iKj7amvQow==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 <style type='text/css'>
 .clearfix::after {
@@ -38,21 +39,21 @@ LI.person-card > img {
 
 </style>
 
-# Scientific Machine Learning @ Danish Meteorological Institute
+# Scientific Machine Learning at DMI
 
 Hi!
 
 Welcome to the website for people interested in scientific machine learning
-(SciML) at DMI (SciML is the discipline of combining machine learning with
-scientific computing see e.g. <a href="https://sciml.ai/roadmap/">sciml.ai</a>
-for an overview). This website serves to organise our work and allow others to
-join us. 
+(SciML) at the Danish Meteorological Institute (DMI) - SciML is the discipline
+of combining machine learning with scientific computing see e.g. <a
+href="https://sciml.ai/roadmap/">sciml.ai</a> for an overview. This website
+serves to organise our work and allow others to join us. 
 
 If you're based at DMI and would like to you can simply make a
 pull-request to add yourself to this website: 
-[people.md](https://github.com/sciml-dmi/sciml-dmi.github.io/tree/master/_data/people.yaml)
+[people.md](https://github.com/dmidk/sciml-dmi.github.io/tree/master/_data/people.yaml)
 
-We meet the **first Monday of every month** (think "ML Mondays") at 11am UK/local time at DMI (typically in Nordlys)
+We meet the **first Monday of every month** (think "ML Mondays") at 11am UK/local time at DMI (typically in Nordlys) - everyone is welcome!
 
 ## People
 
@@ -77,6 +78,9 @@ We meet the **first Monday of every month** (think "ML Mondays") at 11am UK/loca
 
   <img src='{{ image_path }}'/>
   <p>{{item.name}}</p>
+  {% if item.email %}
+  <a href="{{ item.email }}"><i class="fas fa-envelope"></i></a>
+  {% endif %}
   {% if item.social.website %}
   <a href="{{ item.social.website }}"><i class="fas fa-globe"></i></a>
   {% endif %}

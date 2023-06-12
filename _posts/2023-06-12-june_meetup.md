@@ -3,20 +3,18 @@ toc: true
 layout: post
 description: First monthly meetup for SciML community at DMI
 categories: [markdown]
-title: June meetup
+title: June meetup 12/6/2023
 ---
-
-# SciML DMI meetup 12/6/2023
 
 This was the first meetup of SciML @ DMI. Below are notes on what we discussed.
 Feel free to make a pull-request to edit any inaccuracies - Leif Denby.
 
 ## What's new in ML?
 
-- Nvidia modulus: https://github.com/NVIDIA/modulus
+- Nvidia modulus: [https://github.com/NVIDIA/modulus](https://github.com/NVIDIA/modulus)
   - non-standard loss function?
-- `sketch` package: https://github.com/approximatelabs/sketch
-- noteable GPT+ plugin: https://noteable.io/chatgpt-plugin-for-notebook/
+- `sketch` package: [https://github.com/approximatelabs/sketch](https://github.com/approximatelabs/sketch)
+- noteable GPT+ plugin: [https://noteable.io/chatgpt-plugin-for-notebook/](https://noteable.io/chatgpt-plugin-for-notebook/)
 
 ## What do we want **SciML DMI** to be?
 
@@ -74,4 +72,4 @@ mindmap
 
 ## Background
 
-- https://sciml-leeds.github.io
+- SciML Leeds community: [https://sciml-leeds.github.io](https://sciml-leeds.github.io)
