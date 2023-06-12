@@ -22,7 +22,7 @@ github_repo: "sciml-dmi"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://sciml-dmi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://sciml-dmi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # we should replace this when we get a committee email account
 contact_email: lcd@dmi.dk
@@ -45,12 +45,12 @@ contact_email: lcd@dmi.dk
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "" # the subpath of your site, e.g. "/blog".
+baseurl: "sciml-dmi" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
   social_links:
-    - { platform: github, user_url: "https://github.com/sciml-dmi/" }
+    - { platform: github, user_url: "https://github.com/dmidk/sciml-dmi/" }
 
 # Set this to true to get LaTeX math equation support
 use_math: 
