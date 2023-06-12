@@ -14,18 +14,18 @@ defaults:
       image: true
 
 
-title: sciml-leeds
-description: Scientific Machine Learning at Leeds
-github_username: sciml-leeds
+title: sciml-dmi
+description: Scientific Machine Learning at the Danish Meteorological Institute
+github_username: sciml-dmi
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "sciml-leeds"
+github_repo: "sciml-dmi"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://sciml-leeds.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sciml-dmi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # we should replace this when we get a committee email account
-contact_email: sciml@lists.leeds.ac.uk
+contact_email: lcd@dmi.dk
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -50,7 +50,7 @@ baseurl: "" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    - { platform: github, user_url: "https://github.com/sciml-leeds/" }
+    - { platform: github, user_url: "https://github.com/sciml-dmi/" }
 
 # Set this to true to get LaTeX math equation support
 use_math: 

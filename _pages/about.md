@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+SciML@DMI is a community of researchers and practitioners at DMI which are
+excited about applying machine learning in their work. Our primarily interests
+focus around weather and climate in Denmark and abroad.
+[Please get in touch <i class="fa fa-envelope"></i>](mailto://{{site.contact_email}}) if you'd like to collaborate or present your work to our work group.
