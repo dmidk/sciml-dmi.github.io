@@ -4,21 +4,18 @@ title: GPU platforms
 permalink: /gpu/
 gpu_platforms:
   - name: Pascal (DMI)
-    hardware: 1x A100 80GB
+    hardware: 1x Nvidia A100 80GB
     access: Email Tore Wulf (twu@dmi.dk)
     project: ASIP
   - name: ATOS (ECMWF)
-    hardware:
-    access:
+    hardware: 72x Nvidia A100
+    access: https://confluence.ecmwf.int/display/EWCLOUDKB/GPU+support+at+ECMWF
   - name: European Weather Cloud
-    hardware:
-    access:
-  - name: LUMI
-    hardware:
-    access:
-  - name: EuroHPC
-    hardware:
-    access:
+    hardware: 36x Nvidia A100 (TBC), imminently available (June 2023)
+    access: pilot access only
+  - name: LUMI (EuroHPC)
+    hardware: 2560x4x AMD MI250x
+    access: https://docs.lumi-supercomputer.eu/firststeps/
 ---
 
 Below is an overview of GPU platforms available for research by staff at DMI:
@@ -43,3 +40,5 @@ Below is an overview of GPU platforms available for research by staff at DMI:
 {% endfor %}
 
 </table>
+
+- [EuroHPC JU - supercomputers](https://eurohpc-ju.europa.eu/about/our-supercomputers_en)
