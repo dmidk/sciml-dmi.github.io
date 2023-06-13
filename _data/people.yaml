@@ -25,3 +25,9 @@
     - Random Forest
   applications:
     - Quality control of smartphone pressure observations
+ - name: Marion Devilliers
+  email: mde@dmi.dk
+  techniques:
+    - beginner
+  applications:
+    - climate models
