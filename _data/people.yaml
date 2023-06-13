@@ -25,7 +25,7 @@
     - Random Forest
   applications:
     - Quality control of smartphone pressure observations
- - name: Marion Devilliers
+- name: Marion Devilliers
   email: mde@dmi.dk
   techniques:
     - beginner, interested in CNN for downscaling 
