@@ -32,13 +32,12 @@
   applications:
     - climate models
 - name: Peter Thejll
-  email: pth“dmi.dk
+  email: pth@dmi.dk
   social:
     github: hotblack43
     twitter: thejll
-  techniques: 
+  techniques:
     - supervised learning of CNN
     - CNN for image regression (not classification)
   applications:
-    - Radiometry: determine terrestrial albedo from Moon images
-
+    - "Radiometry: determine terrestrial albedo from Moon images"
