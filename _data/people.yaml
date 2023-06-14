@@ -41,3 +41,11 @@
     - CNN for image regression (and classification)
   applications:
     - "Radiometry: determine terrestrial albedo from Moon images"
+- name: Peter Ukkonen
+  email: puk@dmi.dk
+  social:
+    github: peterukk
+  techniques:
+    - RNNs, MLPs, CNNs
+  applications:
+    - ESM parameterizations, e.g. radiative transfer
