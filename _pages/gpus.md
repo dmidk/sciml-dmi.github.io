@@ -5,17 +5,22 @@ permalink: /gpu/
 gpu_platforms:
   - name: Pascal (DMI)
     hardware: 1x Nvidia A100 80GB
-    access: Email Tore Wulf (twu@dmi.dk)
+    access:
+        contact: Tore Wulf
+        email: twu@dmi.dk
     project: ASIP
   - name: ATOS (ECMWF)
     hardware: 72x Nvidia A100
-    access: https://confluence.ecmwf.int/display/EWCLOUDKB/GPU+support+at+ECMWF
+    access:
+        url: https://confluence.ecmwf.int/display/EWCLOUDKB/GPU+support+at+ECMWF
   - name: European Weather Cloud
     hardware: 36x Nvidia A100 (TBC), imminently available (June 2023)
-    access: pilot access only
+    access:
+        text: pilot access only
   - name: LUMI (EuroHPC)
     hardware: 2560x4x AMD MI250x
-    access: https://docs.lumi-supercomputer.eu/firststeps/
+    access:
+        url: https://docs.lumi-supercomputer.eu/firststeps/
 ---
 
 Below is an overview of GPU platforms available for research by staff at DMI:
@@ -34,7 +39,15 @@ Below is an overview of GPU platforms available for research by staff at DMI:
 <tr>
 <td>{{platform.name}}</td>
 <td>{{platform.hardware}}</td>
-<td>{{platform.access}}</td>
+<td>
+{% if platform.access.email %}
+Email <a href="mailto://{{platform.contact.email}}">{{platform.access.contact}}</a>
+{% elsif platform.access.url %}
+<a href="{{platform.contact.url}}">{{platform.access.url}}</a>
+{% elsif platform.access.text %}
+{{ platform.access.text }}
+{% endif %}
+</td>
 <td>{{platform.project}}</td>
 </tr>
 {% endfor %}
