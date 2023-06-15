@@ -79,7 +79,7 @@ We meet the **first Monday of every month** (think "ML Mondays") at 11am UK/loca
   <img src='{{ image_path | relative_url }}'/>
   <p>{{item.name}}</p>
   {% if item.email %}
-  <a href="{{ item.email }}"><i class="fas fa-envelope"></i></a>
+  <a href="mailto://{{ item.email }}"><i class="fas fa-envelope"></i></a>
   {% endif %}
   {% if item.social.website %}
   <a href="{{ item.social.website }}"><i class="fas fa-globe"></i></a>
