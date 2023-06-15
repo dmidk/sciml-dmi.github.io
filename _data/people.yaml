@@ -41,6 +41,15 @@
     - CNN for image regression (and classification)
   applications:
     - "Radiometry: determine terrestrial albedo from Moon images"
+- name: Søren Borg Nielsen
+  email: sbn@dmi.dk
+  social:
+    github: sbnielsen
+    twitter: soren_borg
+  techniques:
+    - Beginner
+  applications:
+    - Post-processing of NWP data and downstream applications
 - name: Peter Ukkonen
   email: puk@dmi.dk
   social:
