@@ -21,6 +21,10 @@ gpu_platforms:
     hardware: 2560x4x AMD MI250x
     access:
         url: https://docs.lumi-supercomputer.eu/firststeps/
+  - name: LEONARDO (EuroHPC)
+    hardware: 3456 GPU nodes with 4 NVIDIA A100 each (Booster module), 1536 CPU nodes with 56 cores each (Data Centric module), available soon
+    access:
+        url: https://leonardo-supercomputer.cineca.eu/hpc-system/
 ---
 
 Below is an overview of GPU platforms available for research by staff at DMI:

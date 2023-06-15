@@ -29,6 +29,11 @@ ml_projects:
     contact:
         name: Henrik Feddersen
         email: hf@dmi.dk
+  - name: Destination Earth WP2.4 
+    aim: On-Demand Extremes Digital Twin code adaptation to CPU and accelerators - use of ML techniques
+    contact:
+        name: Peter Ukkonen, Tommaso Benacchio
+        email: puk@dmi.dk, tbo@dmi.dk
 ---
 
 Below is an overview of research projects involving the use of machine learning at DMI:

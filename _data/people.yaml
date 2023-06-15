@@ -68,3 +68,13 @@
     - LSTMs, CNNs
   applications:
     - Forecasting and simulation of river networks
+- name: Tommaso Benacchio 
+  email: tbo@dmi.dk
+  social:
+    website: https://tbnc.wordpress.com
+    github: tbnc
+  techniques:
+    - Supervised learning
+    - Physics-informed neural networks
+  applications:
+    - dynamical cores
