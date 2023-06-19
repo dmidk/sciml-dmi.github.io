@@ -59,7 +59,7 @@ Below is an overview of research projects involving the use of machine learning 
 </td>
 <td>
 {% if project.contact.name and project.contact.email %}
-<a href="mailto://{{ project.contact.email }}">{{project.contact.name}}</a>
+<a href="mailto:{{ project.contact.email }}">{{project.contact.name}}</a>
 {% endif %}
 </td>
 </tr>
