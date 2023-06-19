@@ -45,7 +45,7 @@ Below is an overview of GPU platforms available for research by staff at DMI:
 <td>{{platform.hardware}}</td>
 <td>
 {% if platform.access.email %}
-Email <a href="mailto://{{platform.contact.email}}">{{platform.access.contact}}</a>
+Email <a href="mailto:{{platform.contact.email}}">{{platform.access.contact}}</a>
 {% elsif platform.access.url %}
 <a href="{{platform.contact.url}}">{{platform.access.url}}</a>
 {% elsif platform.access.text %}
