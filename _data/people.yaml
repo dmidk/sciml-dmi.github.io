@@ -78,3 +78,16 @@
     - Physics-informed neural networks
   applications:
     - dynamical cores
+- name: Ruth Mottram
+  email: rum@dmi.dk
+  social:
+    website: https://sternaparadisaea.net/
+    github: ruth-mottram
+    twitter: ruth_mottram
+    mastodon: fediscience.org/@ruth_mottram
+  techniques:
+    - Still learning
+    - convolutional neural networks
+  applications:
+    - Regional climate model emulation
+    - Surface mass balance modelling in Greenland and Antarctica
