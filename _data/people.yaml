@@ -41,6 +41,14 @@
     - CNN for image regression (and classification)
   applications:
     - "Radiometry: determine terrestrial albedo from Moon images"
+- name: Maxime Beauchamp
+  email: maxime.beauchamp@imt-atlantique.fr
+  techniques:
+    - Supervised/unsupervised learning
+    - Neural data assimilation schemes
+  applications:
+    - Geosciences, CAO (Climate, Atmosphere, Ocean)
+    - Data assimilation, Spatial Statistics
 - name: Søren Borg Nielsen
   email: sbn@dmi.dk
   social:
