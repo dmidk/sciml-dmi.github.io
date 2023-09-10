@@ -99,3 +99,13 @@
   applications:
     - Regional climate model emulation
     - Surface mass balance modelling in Greenland and Antarctica
+- name: Fabrizio Baordo
+  email: fab@dmi.dk
+  social:
+    github: fbaordo
+    linkedin: fabrizio baordo
+  techniques:
+    - interested in supervised/unsupervised learning
+  applications:
+    - ai data driven NWP forecasts 
+    - ML for remote sensing products and satellite data assimilation within NWP systems
