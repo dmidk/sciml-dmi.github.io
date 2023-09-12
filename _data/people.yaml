@@ -109,3 +109,11 @@
   applications:
     - ai data driven NWP forecasts 
     - ML for remote sensing products and satellite data assimilation within NWP systems
+- name: Villy Mik-Meyer
+  email: vlymi@dtu.dk
+  social:
+    linkedin: Villy Mik-Meyer
+  techniques:
+    - interested in supervised learning
+  applications:
+    - Data driven models for extreme WL predictions 
