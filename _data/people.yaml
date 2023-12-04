@@ -125,3 +125,15 @@
     - Beginner
   applications:
     - Atmospheric Dispersion
+- name: Tore Wulf
+  email: twu@dmi.dk
+  social:
+    linkedin: torewulf
+    github: torewulf
+  techniques:
+    - supervised/self-supervised learning
+    - vision models
+    - uncertainty quantification
+  applications:
+    - earth observation (e.g. sea ice mapping in SAR imagery)
+    - data-driven forecast models
