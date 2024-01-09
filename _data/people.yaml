@@ -137,6 +137,17 @@
   applications:
     - earth observation (e.g. sea ice mapping in SAR imagery)
     - data-driven forecast models
+- name: Carlos Peralta
+  email: cap@dmi.dk
+  social:
+    linkedin: carlos9917
+    github: carlos9917
+  techniques:
+    - Beginner/intermediate. Hands-on experience with most python ML libraries.
+    - Interested in supervised/unsupervised machine learning
+  applications:
+    - Model verification and post-processing
+    - Interested in data-driven forecast models, downscaling, time-series forecasting
 - name: Kristian Pagh Nielsen  
   email: kpn@dmi.dk
   social:
