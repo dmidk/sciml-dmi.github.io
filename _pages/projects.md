@@ -34,6 +34,11 @@ ml_projects:
     contact:
         name: Peter Ukkonen, Tommaso Benacchio
         email: puk@dmi.dk, tbo@dmi.dk
+  - name: Scientific Machine Learning for Flood Forecasting Systems (Industrial PhD)
+    aim: Combine Machine Learning with Scientific Computing to Improve Flood Forecasting
+    contact:
+        name: Phillip Aarestrup
+        email: phaa@dmi.dk
 ---
 
 Below is an overview of research projects involving the use of machine learning at DMI:

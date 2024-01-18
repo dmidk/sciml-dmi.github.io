@@ -41,7 +41,15 @@
     - CNN for image regression (and classification)
   applications:
     - "Radiometry: determine terrestrial albedo from Moon images"
-- name: Søren Borg Nielsen
+- name: Maxime Beauchamp
+  email: maxime.beauchamp@imt-atlantique.fr
+  techniques:
+    - Supervised/unsupervised learning
+    - Neural data assimilation schemes
+  applications:
+    - Geosciences, CAO (Climate, Atmosphere, Ocean)
+    - Data assimilation, Spatial Statistics
+- name: Søren Borg Thorsen
   email: sbn@dmi.dk
   social:
     github: sbnielsen
@@ -78,3 +86,75 @@
     - Physics-informed neural networks
   applications:
     - dynamical cores
+- name: Ruth Mottram
+  email: rum@dmi.dk
+  social:
+    website: https://sternaparadisaea.net/
+    github: ruth-mottram
+    twitter: ruth_mottram
+    mastodon: fediscience.org/@ruth_mottram
+  techniques:
+    - Still learning
+    - convolutional neural networks
+  applications:
+    - Regional climate model emulation
+    - Surface mass balance modelling in Greenland and Antarctica
+- name: Fabrizio Baordo
+  email: fab@dmi.dk
+  social:
+    github: fbaordo
+    linkedin: fabrizio baordo
+  techniques:
+    - interested in supervised/unsupervised learning
+  applications:
+    - ai data driven NWP forecasts 
+    - ML for remote sensing products and satellite data assimilation within NWP systems
+- name: Villy Mik-Meyer
+  email: vlymi@dtu.dk
+  social:
+    linkedin: Villy Mik-Meyer
+  techniques:
+    - interested in supervised learning
+  applications:
+    - Data driven models for extreme WL predictions 
+- name: Kristian H. Møller
+  email: khm@dmi.dk
+  social:
+    linkedin: Kristian Holten Møller
+  techniques:
+    - Beginner
+  applications:
+    - Atmospheric Dispersion
+- name: Tore Wulf
+  email: twu@dmi.dk
+  social:
+    linkedin: torewulf
+    github: torewulf
+  techniques:
+    - supervised/self-supervised learning
+    - vision models
+    - uncertainty quantification
+  applications:
+    - earth observation (e.g. sea ice mapping in SAR imagery)
+    - data-driven forecast models
+- name: Carlos Peralta
+  email: cap@dmi.dk
+  social:
+    linkedin: carlos9917
+    github: carlos9917
+  techniques:
+    - Beginner/intermediate. Hands-on experience with most python ML libraries.
+    - Interested in supervised/unsupervised machine learning
+  applications:
+    - Model verification and post-processing
+    - Interested in data-driven forecast models, downscaling, time-series forecasting
+- name: Kristian Pagh Nielsen  
+  email: kpn@dmi.dk
+  social:
+    linkedin: https://www.linkedin.com/in/kristian-pagh-nielsen-5330163/
+    github: kristianpagh
+  techniques:
+    - Beginner (in AI)
+  applications:
+    - weather and climate radiative transfer (forward) modelling
+    - remote sensing (inverse) modelling
