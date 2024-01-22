@@ -158,3 +158,29 @@
   applications:
     - weather and climate radiative transfer (forward) modelling
     - remote sensing (inverse) modelling
+- name: Thomas Bøvith
+  email: thb@dmi.dk
+  social:
+    linkedin: thomasboevith
+    github: thomasboevith
+  techniques:
+    - Machine learning
+  applications:
+    - Nowcasting of precipitation
+    - Data quality
+- name: Rashpal Gill
+  email: rsg@dmi.dk
+  social: Rashpal Gill
+  techniques:
+    - Machine learning
+  applications:
+    - Hydrometeor classification
+    - Data quality
+- name: Flemming Vejen
+  email: fv@dmi.dk
+  social: Flemming Vejen
+  techniques:
+    - Machine learning
+    - Data quality
+  applications:
+    - Precipitation estimation
