@@ -195,3 +195,15 @@
   applications:
     - Effect of North Atlantic system on European Climate
     - Chances and limitation of ML methods
+- name: Nicolaj Hansen
+  email: nih@dmi.dk
+  social:
+    github: NicolajHansen90
+    twitter: Hansen_Nicolaj
+    linkedin: Nicolaj Hansen
+  techniques:
+    - Machine learning
+    - Data quality
+    - Emulators
+  applications:
+    - Build emulators that can downscale precipitation over ice sheets
