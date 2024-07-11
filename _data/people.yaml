@@ -195,3 +195,13 @@
   applications:
     - Effect of North Atlantic system on European Climate
     - Chances and limitation of ML methods
+- name: Henriette Rilling
+  email: hcsr@dmi.dk
+  social:
+    github: HenrietteRilling
+  techniques:
+    - Supervised/unsupervised learning
+    - Physics-informed neural networks
+  applications:
+    - Precipitation time series forecasting, spatial + temporal gap-filling
+    - ML for radar products
