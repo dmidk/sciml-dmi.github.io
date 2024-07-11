@@ -28,7 +28,7 @@
 - name: Marion Devilliers
   email: mde@dmi.dk
   techniques:
-    - beginner, interested in CNN for downscaling 
+    - beginner, interested in CNN for downscaling
   applications:
     - climate models
 - name: Peter Thejll
@@ -76,7 +76,7 @@
     - LSTMs, CNNs
   applications:
     - Forecasting and simulation of river networks
-- name: Tommaso Benacchio 
+- name: Tommaso Benacchio
   email: tbo@dmi.dk
   social:
     website: https://tbnc.wordpress.com
@@ -107,7 +107,7 @@
   techniques:
     - interested in supervised/unsupervised learning
   applications:
-    - ai data driven NWP forecasts 
+    - ai data driven NWP forecasts
     - ML for remote sensing products and satellite data assimilation within NWP systems
 - name: Villy Mik-Meyer
   email: vlymi@dtu.dk
@@ -116,7 +116,7 @@
   techniques:
     - interested in supervised learning
   applications:
-    - Data driven models for extreme WL predictions 
+    - Data driven models for extreme WL predictions
 - name: Kristian H. Møller
   email: khm@dmi.dk
   social:
@@ -148,7 +148,7 @@
   applications:
     - Model verification and post-processing
     - Interested in data-driven forecast models, downscaling, time-series forecasting
-- name: Kristian Pagh Nielsen  
+- name: Kristian Pagh Nielsen
   email: kpn@dmi.dk
   social:
     linkedin: https://www.linkedin.com/in/kristian-pagh-nielsen-5330163/
@@ -207,3 +207,14 @@
     - Emulators
   applications:
     - Build emulators that can downscale precipitation over ice sheets
+- name: Michael Andersen
+  email: mian@dmi.dk
+  social:
+    github: blackplague
+    linkedin: mchl-ndrsn
+  techniques:
+    - GNNs, XGBoost, Hyperparameter Optimization, ResNet/CNN, Word2Vec text embedding, OCR, Neo4j, GraphDB
+  applications:
+    - Fraud detection
+    - Image classification
+    - Similarity/context searches
