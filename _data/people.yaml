@@ -195,13 +195,25 @@
   applications:
     - Effect of North Atlantic system on European Climate
     - Chances and limitation of ML methods
+- name: Nicolaj Hansen
+  email: nih@dmi.dk
+  social:
+    github: NicolajHansen90
+    twitter: Hansen_Nicolaj
+    linkedin: Nicolaj Hansen
+  techniques:
+    - Machine learning
+    - Data quality
+    - Emulators
+  applications:
+    - Build emulators that can downscale precipitation over ice sheets
 - name: Michael Andersen
   email: mian@dmi.dk
   social:
     github: blackplague
     linkedin: mchl-ndrsn
   techniques:
-    - Interested in learning GNN, XGBoost, Hyperparameter Optimization, ResNet/CNN, Word2Vec text embedding, OCR, Neo4j GraphDB
+    - GNNs, XGBoost, Hyperparameter Optimization, ResNet/CNN, Word2Vec text embedding, OCR, Neo4j, GraphDB
   applications:
     - Fraud detection
     - Image classification
