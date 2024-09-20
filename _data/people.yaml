@@ -228,3 +228,16 @@
   applications:
     - Precipitation time series forecasting, spatial + temporal gap-filling
     - ML for radar products
+- name: Hauke Schulz
+  email: has@dmi.dk
+  social:
+    website: https://observingClouds.github.io
+    github: observingClouds
+    twitter: meteo.hauke
+    mastodon: sciencemastodon.com/@haukeschulz
+  techniques:
+    - Self-supervised/unsupervised learning
+    - convolutional networks
+  applications:
+    - meso-scale cloud organisation
+    - pattern detections in observations and simulations
