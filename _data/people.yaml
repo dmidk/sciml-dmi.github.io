@@ -228,3 +228,14 @@
   applications:
     - Precipitation time series forecasting, spatial + temporal gap-filling
     - ML for radar products
+- name: Emy Alerskans
+  email: ea@dmi.dk
+  social:
+    github: ealerskans
+  techniques:
+    - Supervised learning
+    - Transformer NN
+  applications:
+    - Post-processing of NWP surface variables
+    - Retrieval of sea surface temperature from satellite passive microwave observations
+    - Interested in data-driven forecast models, data assimilation and remote sensing applications
