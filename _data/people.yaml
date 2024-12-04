@@ -228,3 +228,12 @@
   applications:
     - Precipitation time series forecasting, spatial + temporal gap-filling
     - ML for radar products
+- name: Eleni Briola
+  email: elb@dmi.dk
+  social:
+    github: helenbr
+    linkedin: Eleni Briola
+  techniques:
+    - Supervised learning, Clustering, Federated Learning
+  applications:
+    - AI-driven weather forecasting and nowcasting, Real-time detection and characterization of atmospheric phenomena
