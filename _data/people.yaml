@@ -238,6 +238,14 @@
   applications:
     - Precipitation time series forecasting, spatial + temporal gap-filling
     - ML for radar products
+- name: Margaux Hilt
+  email: mah@dmi.dk
+  social:
+    github: mehilt
+  techniques:
+    - Beginner in ML
+  applications:
+    - Potential applications in numerical oceanography (correcting model bias...)
 - name: Eleni Briola
   email: elb@dmi.dk
   social:
