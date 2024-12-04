@@ -195,6 +195,16 @@
   applications:
     - Effect of North Atlantic system on European Climate
     - Chances and limitation of ML methods
+- name: Irene Livia Kruse
+  email: ikr@dmi.dk
+  social:
+    github: irenelivia
+  techniques:
+    - LSTMs for nowcasting time series
+    - Interested in GNNs for nowcasting, and much more
+  applications:
+    - In my phd: nowcasting convective cold pools from weather station time series
+    - In the near future: nowcasting solar/wind time series for energy meteorology
 - name: Nicolaj Hansen
   email: nih@dmi.dk
   social:
@@ -228,6 +238,23 @@
   applications:
     - Precipitation time series forecasting, spatial + temporal gap-filling
     - ML for radar products
+- name: Margaux Hilt
+  email: mah@dmi.dk
+  social:
+    github: mehilt
+  techniques:
+    - Beginner in ML
+  applications:
+    - Potential applications in numerical oceanography (correcting model bias...)
+- name: Eleni Briola
+  email: elb@dmi.dk
+  social:
+    github: helenbr
+    linkedin: Eleni Briola
+  techniques:
+    - Supervised learning, Clustering, Federated Learning
+  applications:
+    - AI-driven weather forecasting and nowcasting, Real-time detection and characterization of atmospheric phenomena
 - name: Emy Alerskans
   email: ea@dmi.dk
   social:
