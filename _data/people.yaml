@@ -200,11 +200,9 @@
   social:
     github: irenelivia
   techniques:
-    - LSTMs for nowcasting time series
-    - Interested in GNNs for nowcasting, and much more
-  applications:
-    - In my phd: nowcasting convective cold pools from weather station time series
-    - In the near future: nowcasting solar/wind time series for energy meteorology
+    - (some experience in) LSTMs for nowcasting time series of thunderstorm outflows
+    - (interested in) Diffusion models for nowcasting solar radiation, and more
+
 - name: Nicolaj Hansen
   email: nih@dmi.dk
   social:
