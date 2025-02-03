@@ -277,3 +277,7 @@
   applications:
     - meso-scale cloud organisation
     - pattern detections in observations and simulations
+- name: Martin Frølund
+  email: maf@dmi.dk
+  social:
+    github: mafdmi
